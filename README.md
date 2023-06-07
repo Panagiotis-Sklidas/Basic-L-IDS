@@ -7,7 +7,7 @@ Take a look at your server logs and check for weird requests. Mark them as attac
 After having a good idea of what you consider an attack/enumeration you can edit the detector.py script to add your own blacklists/whitelists.
 
 # Setup:
-Add the script inside a home directory you will run it from. 
+Add the script  inside a home directory you will run it from. 
 
 ### **Important** 
 Make sure the permissions on all the scripts and the folder containing the scripts is 600. chmod -r 600 Basic-L-IDS/
